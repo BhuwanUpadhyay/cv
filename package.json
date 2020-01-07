@@ -1,0 +1,31 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "http-server ./docs -p 8080",
+    "build": "bundle exec jekyll build",
+    "publish": "npm run build && node publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhuwanUpadhyay/cv.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Bhuwan Prasad Upadhyay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BhuwanUpadhyay/cv/issues"
+  },
+  "homepage": "https://github.com/BhuwanUpadhyay/cv#readme",
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "http-server": "^0.12.0"
+  }
+}
