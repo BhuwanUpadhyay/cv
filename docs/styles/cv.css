@@ -4,3 +4,15 @@
     display: block;
     font-weight: bold;
 }
+
+.recommendation-category {
+    font-size: 10px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.recommendation-title a {
+    font-size: 14px;
+    font-weight: bold;
+}
