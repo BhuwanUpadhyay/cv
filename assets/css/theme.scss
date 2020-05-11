@@ -1,0 +1,21 @@
+---
+---
+
+$brown: #B59F62;
+$teal: #40FFDC;
+$black: #111;
+$primary: $teal;
+$dark: $black;
+$enable-rounded: false;
+
+@import "bootstrap/functions";
+@import 'bootstrap/variables';
+@import "bootstrap/mixins";
+@import 'bootstrap/bootstrap';
+@import 'stars';
+
+
+// general
+body, input, button, select, optgroup, textarea {
+  font-family: Sen;
+}

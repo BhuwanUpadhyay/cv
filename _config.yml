@@ -1,0 +1,26 @@
+title: CV | Bhuwan Prasad Upadhyay
+email: bhuwan.upadhyay49@gmail.com
+description: >-
+  Hello! I am Bhuwan Prasad Upadhyay. Java developer, Cloud Native and DDD Practitioner, Angular Developer. Innovative Software Engineer with hands–on professional experience in Cloud Native Application, Domain Driven Development and Serverless Application development, primarily with Java, SpringBoot, SpringCloud, Hibernate, AWSLambda, DynamoDB, Kubernetes, Angular, Typescript.
+baseurl: "/cv"
+twitter_username: IAmBhuwan
+github_username:  BhuwanUpadhyay
+
+plugins:
+  - jekyll-seo-tag
+sass:
+  sass_dir: _sass
+  style: compressed
+exclude:
+  - README.md
+  - package.json
+  - node_modules
+  - Makefile
+  - package-lock.json
+  - docker-compose.yml
+  - changelog.md
+  - Gemfile.lock
+  - Gemfile
+  - LICENSE
+  - ".idea"
+  - ".github"  
