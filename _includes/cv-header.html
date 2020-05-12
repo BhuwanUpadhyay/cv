@@ -1,0 +1,66 @@
+{% assign cv = site.data.cv %}
+<div class="cv-header">
+    <div class="row">
+        <div class="col-9">
+            <p class="cv-name">{{ cv.name }}</p>
+            <p class="cv-title">{{ cv.title }}</p>
+        </div>
+    </div>
+    <div class="cv-horizontal-line"></div>
+    <div class="row pt-2">
+        <div class="col-9">
+            <p class="cv-summary">{{ cv.summary }}</p>
+        </div>
+        <div class="col-3 cv-personal-info">
+            <div class="d-flex justify-content-center">
+                <div>
+                    <p>
+                        <i class="fas fa-envelope-square"></i>
+                        <a href="mailto:{{ cv.email }}">{{ cv.email }}</a>
+                    </p>
+                    <p>
+                        <i class="fas fa-phone-square"></i>
+                        <span>{{ cv.phone }}</span>
+                    </p>
+                    <p>
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>{{ cv.location }}</span>
+                    </p>
+                    <p class="cv-icons">
+                        <a href="{{ cv.web }}" target="_blank">
+                            <i class="fas fa-globe"></i>
+                        </a>
+
+                        <a href="{{ cv.blog }}" target="_blank">
+                            <i class="fab fa-blogger"></i>
+                        </a>
+
+                        <a href="{{ cv.github }}" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+
+                        <a href="{{ cv.linkedin }}" target="_blank">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+
+                        <a href="{{ cv.twitter }}" target="_blank">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+
+                        <a href="{{ cv.stack_overflow }}" target="_blank">
+                            <i class="fab fa-stack-overflow"></i>
+                        </a>
+
+                        <a href="{{ cv.facebook }}" target="_blank">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+
+                        <a href="skype:{{ cv.skype }}?call" target="_blank">
+                            <i class="fab fa-skype"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

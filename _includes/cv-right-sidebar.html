@@ -1,0 +1,10 @@
+{% assign cv = site.data.cv %}
+<div class="cv-right-sidebar">
+
+    <div class="cv-skills">
+        <h6>SKILLS</h6>
+        {% for skill in cv.skills %}
+            <p class="cv-skill">{{ skill }}</p>
+        {% endfor %}
+    </div>
+</div>

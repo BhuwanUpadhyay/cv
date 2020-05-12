@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 Tabitha Hirvanen
 
 Software Engineer

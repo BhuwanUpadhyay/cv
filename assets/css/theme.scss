@@ -4,7 +4,8 @@
 $brown: #B59F62;
 $teal: #40FFDC;
 $black: #111;
-$primary: $teal;
+$primary: rgb(45, 188, 173);
+//$primary: $teal;
 $dark: $black;
 $enable-rounded: false;
 
@@ -18,4 +19,63 @@ $enable-rounded: false;
 // general
 body, input, button, select, optgroup, textarea {
   font-family: Sen;
+}
+
+.cv-header {
+
+  .cv-name {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .cv-title {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  .cv-summary {
+    font-size: 18px;
+  }
+
+  img {
+    height: 65px;
+  }
+
+  .cv-personal-info {
+
+    .cv-icons {
+      a, a:hover {
+        text-decoration: none;
+        padding-right: 5px;
+      }
+
+      i {
+        font-size: 24px;
+        text-decoration: none;
+      }
+    }
+  }
+
+}
+
+.cv-horizontal-line {
+  height: 2px;
+  background: $primary;
+}
+
+.cv-right-sidebar {
+
+  .cv-skills {
+
+    h6 {
+      font-weight: bold;
+    }
+    .cv-skill {
+      padding: 5px;
+      background: $primary;
+      border-radius: 5px;
+      color: rgb(255,255,255);
+    }
+  }
 }
