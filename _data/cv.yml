@@ -22,11 +22,107 @@ skype: developerbhuwan
 github: https://github.com/BhuwanUpadhyay
 phone: +977-9848490976
 skills:
-  - Java
-  - Spring Boot
-  - Spring Cloud
-  - Spring Data
-  - OpenAPI
-  - BPMN
-  - Clean Code
-  -
+  - title: Programming Languages
+    cssClass: programming-languages
+    categories:
+      - name: Java 8
+      - name: Java 11
+      - name: Java 14
+      - name: Typescript
+      - name: Kotlin
+  - title: Spring Frameworks
+    cssClass: spring-frameworks
+    categories:
+      - name: Spring Boot
+      - name: Spring Data
+      - name: Spring Web
+      - name: Spring Webflux
+      - name: Spring Cloud
+  - title: Databases
+    cssClass: databases
+    categories:
+      - name: PostgreSQL
+      - name: MySQL
+      - name: MongoDB
+      - name: Cassandra
+  - title: Testing
+    cssClass: testing
+    categories:
+      - name: JUnit
+      - name: JUnit5
+      - name: AssertJ
+      - name: Mockito
+
+      - name: Wiremock
+      - name: Test Containers
+  - title: Cloud-Native and Microservices
+    cssClass: cloud-native-and-microservices
+    categories:
+      - name: API First Design
+      - name: 12 Factor App
+      - name: Docker
+      - name: Kubernetes
+      - name: Ploygot
+      - name: Hexagonal
+      - name: Onion
+      - name: Microservices Testing
+      - name: CDC Testing
+  - title: Software Design
+    cssClass: software-design
+    categories:
+      - name: Domain-Driven Design
+      - name: Eventstorming
+      - name: CQRS
+      - name: Eventsourcing
+      - name: TDD
+      - name: BDD
+      - name: Clean Code
+      - name: Code Review
+      - name: Refactoring
+      - name: Design Patterns
+      - name: Business Process Modeling (BPMN)
+
+#
+#  - Java
+#  - Spring Boot
+#  - Spring Cloud
+#  - Spring Data
+#  - Hiberante/JPA
+#  - TDD
+#  - API First Design
+#  - CQRS
+#  - BDD
+#  - Domain-Driven Design
+#  - CI/CD
+#  - Code Review
+#  - Clean Code
+#  - Docker
+#  - Kubernetes
+#  - Cloud-Native
+#  - BPMN
+#  - Microservices
+#  - OpenAPI
+#  - GIT
+#  - AWSLambda
+#  - AWSCognito
+#  - AWS EC2
+#  - DynamoDB
+#  - Agile
+#  - XP Rules
+#  - CDC Testing
+#  - Eventstorming
+#  - jOOQ
+#  - Kotlin
+#  - JAX-RS
+#  - RESTful Services
+#  - JDBC
+#  - JMH
+#  - JUNIT
+#  - Mockito
+#  - OAuth2
+#  - Angular
+#  - Typescript
+#  - NodeJs
+#  - PostgreSQL
+#  - MySQL
+#  - Cassandra

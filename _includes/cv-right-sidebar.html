@@ -1,10 +1,17 @@
 {% assign cv = site.data.cv %}
 <div class="cv-right-sidebar">
 
-    <div class="cv-skills">
-        <h6>SKILLS</h6>
+    <div class="cv-skills d-flex flex-column">
+        <h5>SKILLS</h5>
         {% for skill in cv.skills %}
-            <p class="cv-skill">{{ skill }}</p>
+        <div class="cv-skill-{{skill.cssClass}}">
+            <h6 class="pt-2">{{ skill.title }}</h6>
+            {% for category in skill.categories %}
+            <span class="cv-skill">
+                <span class="cv-skill-o">{{ category.name }}</span>
+            </span>
+            {% endfor %}
+        </div>
         {% endfor %}
     </div>
 </div>
