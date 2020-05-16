@@ -23,7 +23,6 @@ github: https://github.com/BhuwanUpadhyay
 phone: +977-9848490976
 skills:
   - title: Java
-    cssClass: java
     categories:
       - name: Core
       - name: Multi-Threading
@@ -33,7 +32,6 @@ skills:
       - name: Record
       - name: Best Practices
   - title: Spring Frameworks
-    cssClass: spring-frameworks
     categories:
       - name: Spring Boot
       - name: Spring Data
@@ -42,7 +40,6 @@ skills:
       - name: Spring Cloud
       - name: Spring Security
   - title: Data Exchange Technologies
-    cssClass: data-exhange-technologies
     categories:
       - name: RESTful
       - name: Hateoas
@@ -53,14 +50,12 @@ skills:
       - name: JAX-RS
       - name: JMS
   - title: Databases (SQL/NoSQL)
-    cssClass: databases
     categories:
       - name: PostgreSQL
       - name: MySQL
       - name: MongoDB
       - name: Cassandra
   - title: Data Access Frameworks
-    cssClass: data-access-frameworks
     categories:
       - name: JDBC
       - name: Hibernate/JPA
@@ -69,7 +64,6 @@ skills:
       - name: JdbcTemplate
       - name: GraphQL
   - title: Security
-    cssClass: security
     categories:
       - name: Spring Security
       - name: OAuth2
@@ -78,7 +72,6 @@ skills:
       - name: JWT
       - name: Encryption and Decryption
   - title: Testing Frameworks
-    cssClass: testing-frameworks
     categories:
       - name: JUnit
       - name: Jupiter
@@ -90,7 +83,6 @@ skills:
       - name: Wiremock
       - name: Test Containers
   - title: Development Practices
-    cssClass: development-practices
     categories:
       - name: Microservices
       - name: Domain-Driven Design
@@ -99,21 +91,20 @@ skills:
       - name: Eventsourcing
       - name: Clean Code
       - name: Code Review
+      - name: TDD
+      - name: BDD
+      - name: XP
+      - name: Agile
+      - name: Serverless
       - name: Business Process Modeling (BPMN)
       - name: 12 Factor App
       - name: Ploygot Persistance
       - name: Hexagonal Architecture
       - name: Onion Architecture
       - name: Eventstorming
-      - name: TDD
-      - name: BDD
       - name: Refactoring
       - name: Design Patterns
-      - name: XP
-      - name: Agile
-      - name: Serverless
   - title: Cloud Technologies
-    cssClass: cloud-technologies
     categories:
       - name: Kubernetes
       - name: Docker
@@ -121,7 +112,6 @@ skills:
       - name: Docker Compose
       - name: Terraform
   - title: Amazon Web Services
-    cssClass: amazon-web-services
     categories:
       - name: AWS Lambda
       - name: DynamoDB
@@ -130,14 +120,12 @@ skills:
       - name: EC2
       - name: S3
   - title: Frontend Technologies
-    cssClass: frontend-technologies
     categories:
       - name: Angular
       - name: Typescript
       - name: Bootstrap
       - name: Material Design
   - title: Others
-    cssClass: others
     categories:
       - name: NodeJs
       - name: Kotlin
@@ -145,7 +133,6 @@ skills:
       - name: JMH
 experiences:
   - title: Technical Team Lead
-    cssClass: clusus technical-team-lead
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
     years: April 2020 - Present
@@ -157,10 +144,9 @@ experiences:
       - Involving in code review, ensure code quality and completion of a milestone in time.
       - Mentoring other members to help them to build high-quality software products.
   - title: Java Developer
-    cssClass: clusus java-developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
-    years: October 2016 - March, 2020
+    years: October 2016 - March 2020
     responsibilities:
       - Developed Spring Boot microservices for the delivery of software products across the enterprise.
       - Decomposed existing monolithic codebase into Spring Boot microservices.
@@ -169,3 +155,23 @@ experiences:
       - Benchmarked the system to identify bottlenecks of the application and gives feedback according to that.
       - Developed a highly customized Spring Boot microservice by applying DDD, TDD, and XP methodologies.
       - Developed Serverless Application with AWS Lambda, Dynamo DB, AWS Kinesis, AWS Cognito, AWS API Gateway.
+  - title: Software Engineer
+    company: Versik Information Technologies
+    location: Kathmandu, Nepal
+    years: March 2015 - September 2016
+    responsibilities:
+      - Developed Enterprise applications using MVC architecture and TDD approach.
+      - Implemented Design Patterns like Singleton design pattern for creating JDBC connection pool, Factory design Pattern – for calling DAO from Service, Proxy Design Pattern – for creating proxy objects, etc
+      - Applied the principle of Object Oriented Programming. Polymorphism, Inheritance, Abstraction, Encapsulation, Inversion of Control (Dependency Injection), Open Closed Principle, etc. to achieve reusable, maintainable code.
+      - Developed complex SQL queries to retrieve, delete, update and persist data.
+      - Involved in writing unit test plans and developing test cases using JUnit.
+      - Designed and Developed different technical documents.
+  - title: Java Developer
+    company: GITSS Nepal
+    location: Dhangadhi, Nepal
+    years: January 2014 - February 2015
+    responsibilities:
+      - Developed Service Layer for Android applications using SOA.
+      - Applied the principle of Object-Oriented Programming. Polymorphism, Inheritance etc. to achieve reusable, maintainable code.
+      - Involved in writing unit test plans and developing test cases using JUnit.
+      - Involved in SDLC phases.
