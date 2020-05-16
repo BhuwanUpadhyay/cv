@@ -4,8 +4,8 @@
 $brown: #B59F62;
 $teal: #40FFDC;
 $black: #111;
-$primary: rgb(62,120,124);
-$secondary: rgb(45,188,173);
+$primary: rgb(62, 120, 124);
+$secondary: rgb(45, 188, 173);
 $dark: $black;
 $enable-rounded: false;
 
@@ -23,9 +23,10 @@ $enable-rounded: false;
 
 @mixin cv-rectangle {
   padding: 5px;
-  background: $primary;
+  background-color: $primary;
   font-size: 14px;
   color: rgb(255, 255, 255);
+  -webkit-print-color-adjust: exact;
 }
 
 body {
