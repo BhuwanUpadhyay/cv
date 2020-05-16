@@ -1,10 +1,10 @@
 {% assign cv = site.data.cv %}
 <div class="cv-right-sidebar">
-    <div class="cv-skills d-flex flex-column">
+    <div class="cv-skills d-flex flex-column mt-2">
         <h5>Professional Skills</h5>
         {% for skill in cv.skills %}
         <div>
-            <div class="pt-2">
+            <div class="mt-2">
                 <h6>{{ skill.title }}</h6>
             </div>
             {% for category in skill.categories %}
@@ -15,7 +15,7 @@
         </div>
         {% endfor %}
     </div>
-    <div class="cv-achievements mt-3">
+    <div class="cv-achievements mt-2">
         <h5>Achievements</h5>
         <ul>
             {% for achievement in cv.achievements %}
@@ -23,20 +23,25 @@
             {% endfor %}
         </ul>
     </div>
-    <div class="cv-languages mt-3">
+    <div class="cv-languages mt-2">
         <h5>Languages</h5>
         <ul>
             {% for language in cv.languages %}
-                <li>{{ language.name }} <br> {{ language.level }}</li>
+            <li>
+                <span class="cv-language-name"> {{ language.name }}</span>
+                <br>
+                <span class="cv-language-level">{{ language.level }}</span>
+            </li>
             {% endfor %}
         </ul>
     </div>
-    <div class="cv-interests mt-3">
+    <div class="cv-horizontal-line mt-2"></div>
+    <div class="cv-interests mt-2">
         <h5>Interests</h5>
-        <ul>
-            {% for interest in cv.interests %}
-            <li>{{ interest }}</li>
-            {% endfor %}
-        </ul>
+        {% for interest in cv.interests %}
+        <span class="cv-interest">
+                <span class="cv-interest-o">{{ interest }}</span>
+            </span>
+        {% endfor %}
     </div>
 </div>

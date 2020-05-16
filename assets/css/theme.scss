@@ -15,6 +15,9 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
+body {
+  overflow-x: hidden;
+}
 
 // general
 body, input, button, select, optgroup, textarea {
@@ -116,11 +119,32 @@ body, input, button, select, optgroup, textarea {
     h5, h6 {
       font-weight: bold;
     }
+
+    .cv-language-name {
+      font-weight: bold;
+    }
+
+    .cv-language-level {
+      font-style: italic;
+    }
   }
 
   .cv-interests {
     h5, h6 {
       font-weight: bold;
+    }
+
+    .cv-interest {
+      float: left;
+      margin-top: 5px;
+      margin-right: 5px;
+    }
+
+    .cv-interest-o {
+      padding: 5px;
+      background: $primary;
+      font-size: 14px;
+      color: rgb(255, 255, 255);
     }
   }
 }

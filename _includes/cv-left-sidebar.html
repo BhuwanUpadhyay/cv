@@ -1,10 +1,10 @@
 {% assign cv = site.data.cv %}
 <div class="cv-left-sidebar">
-    <div class="cv-experiences d-flex flex-column">
+    <div class="cv-experiences d-flex flex-column mt-2">
         <h5>Work Experiences</h5>
         {% for experience in cv.experiences %}
         <div>
-            <div class="d-flex justify-content-between pt-2">
+            <div class="d-flex justify-content-between">
                 <div>
                     <h6>{{ experience.title }}</h6>
                     <span>{{ experience.years }}</span>
@@ -29,7 +29,7 @@
         <h5>Educations</h5>
         {% for education in cv.educations %}
         <div>
-            <div class="d-flex justify-content-between pt-2">
+            <div class="d-flex justify-content-between">
                 <div>
                     <h6>{{ education.title }}</h6>
                     <span>{{ education.years }}</span>
