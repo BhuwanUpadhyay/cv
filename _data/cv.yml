@@ -206,9 +206,9 @@ interests:
 projects:
   - title: Upcoming Books (Jaunary 2020 – Present)
     links:
-      - title: Think DDD
+      - title: Think DDD (A book on real world example for domain-driven design)
         href: https://bhuwanupadhyay.gitbook.io/think-ddd/
-      - title: Spring Boot 2.0
+      - title: Spring Boot 2.0 (A book for deep-dive with Spring Boot 2.0)
         href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
   - title: Practical Microservice Architecture Reference, Guide and Tutorial (May 2020 - Present)
     links:
