@@ -3,9 +3,9 @@
     <div class="cv-skills d-flex flex-column">
         <h5>Professional Skills</h5>
         {% for skill in cv.skills %}
-        <div>
-            <div class="mt-2">
-                <h6>{{ skill.title }}</h6>
+        <div class="mb-2">
+            <div>
+                <h6 class="m-0">{{ skill.title }}</h6>
             </div>
             {% for category in skill.categories %}
             <span class="cv-skill">

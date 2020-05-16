@@ -63,6 +63,7 @@ skills:
       - name: MyBitas
       - name: JdbcTemplate
       - name: GraphQL
+      - name: ElasticSearch
   - title: Security
     categories:
       - name: Spring Security
@@ -130,7 +131,24 @@ skills:
       - name: NodeJs
       - name: Kotlin
       - name: Java EE
+      - name: Maven
+      - name: Gradle
+      - name: Linux
+      - name: Scala
+      - name: GraalVM
+      - name: IntellijIdea
+      - name: Eclipse
+      - name: NPM
+      - name: Gatling
+      - name: Checker Framework
+      - name: Sonar
+      - name: Checkstyle
       - name: JMH
+      - name: Elastic APM
+      - name: Kibana
+      - name: Logstash
+      - name: Grafana
+      - name: JProfiler
 experiences:
   - title: Technical Team Lead
     company: Clusus Information Solutions
