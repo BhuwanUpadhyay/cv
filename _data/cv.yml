@@ -9,7 +9,7 @@ summary: >-
   In previous roles, migrated monolithic application into microservices,
   developed greenfield products using cloud-native and microservice architecture,
   refactored codebase to increase readability and resolved a performance bottleneck that increased application performance.
-image: assets/images/avatar.jpg
+image: assets/images/2.png
 email: bhuwan.upadhyay49@gmail.com
 location: Kathmandu, Nepal
 web: http://bhuwanupadhyay.github.io/
@@ -155,12 +155,13 @@ experiences:
     location: Dubai, United Arab Emirates
     years: April 2020 - Present
     responsibilities:
-      - Building microservices for the delivery of software products across the enterprise.
-      - Working with domain-driven design, cloud-native patterns, best practices.
-      - Working with angular to build front end applications.
-      - Develop architecture design for the product.
-      - Involving in code review, ensure code quality and completion of a milestone in time.
-      - Mentoring other members to help them to build high-quality software products.
+      - Technically lead product development using microservices.
+      - Applied development practices - clean code, tdd, domain-driven design and best practices.
+      - Managed a team of 4 software engineers in technical domain.
+      - Standardized tools/models for Code Review, Code Quality and Code Conventions.
+      - Developed backend and frontend application using XP Principles.
+      - Handled responsibilities from development to deployment.
+      - Helped other members to build high-quality software products.
   - title: Java Developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates

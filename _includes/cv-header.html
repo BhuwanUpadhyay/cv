@@ -5,9 +5,12 @@
             <p class="cv-name">{{ cv.name }}</p>
             <p class="cv-title">{{ cv.title }}</p>
         </div>
-        <div class="col-3 d-print-none">
-<!--            <button class="btn btn-success ">Download Now</button>-->
-<!--            <button class="btn btn-info d-print-none">Send Email</button>-->
+        <div class="col-3">
+           <div class="d-flex justify-content-center">
+               <div>
+                   <img src="{{site.baseurl}}/{{cv.image}}">
+               </div>
+           </div>
         </div>
     </div>
     <div class="cv-horizontal-line"></div>
