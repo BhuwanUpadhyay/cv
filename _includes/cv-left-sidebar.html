@@ -42,5 +42,17 @@
         </div>
         {% endfor %}
     </div>
-
+    <div class="cv-projects d-flex flex-column mt-2">
+        <h5>Personal Projects</h5>
+        {% for project in cv.projects %}
+        <div>
+            <h6>{{ project.title }}</h6>
+            <ul>
+                {% for link in project.links %}
+                    <li> <a href="{{link.href}}">{{link.title}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
 </div>

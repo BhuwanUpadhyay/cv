@@ -203,3 +203,18 @@ interests:
   - Reading
   - Swimming
   - Travelling
+projects:
+  - title: Upcoming Books (Jaunary 2020 – Present)
+    links:
+      - title: Think DDD
+        href: https://bhuwanupadhyay.gitbook.io/think-ddd/
+      - title: Spring Boot 2.0
+        href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
+  - title: Practical Microservice Architecture Reference, Guide and Tutorial (May 2020 - Present)
+    links:
+      - title: Retail Management System
+        href: https://github.com/microservice-architecutre/rtms-specifications/
+  - title: College Projects (January 2012 – January 2014)
+    links:
+      - title: 8 Projects (from desktop to web applications)
+        href: https://bhuwanupadhyay.github.io/college-projects/
