@@ -1,4 +1,26 @@
 {% assign cv = site.data.cv %}
 <div class="cv-left-sidebar">
-
+    <div class="cv-experiences d-flex flex-column">
+        <h5>Work Experiences</h5>
+        {% for experience in cv.experiences %}
+        <div class="cv-experience-{{experience.cssClass}}">
+            <div class="d-flex justify-content-between pt-2">
+                <div>
+                    <h6>{{ experience.title }}</h6>
+                    <span>{{ experience.years }}</span>
+                </div>
+                <div>
+                    <h6>{{ experience.company }}</h6>
+                    <span>{{ experience.location }}</span>
+                </div>
+            </div>
+            <h6 class="mt-2">Responsibilities</h6>
+            {% for responsibility in experience.responsibilities %}
+            <span class="cv-experience">
+                <span class="cv-experience-o">{{ responsibility }}</span>
+            </span>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
 </div>

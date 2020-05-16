@@ -64,11 +64,23 @@ body, input, button, select, optgroup, textarea {
   background: $primary;
 }
 
+.cv-left-sidebar {
+  .cv-experiences {
+    h5, h6 {
+      font-weight: bold;
+    }
+  }
+
+  .cv-experience-o {
+    display: block;
+  }
+}
+
 .cv-right-sidebar {
 
   .cv-skills {
 
-    h5,h6 {
+    h5, h6 {
       font-weight: bold;
     }
 
@@ -81,7 +93,7 @@ body, input, button, select, optgroup, textarea {
     .cv-skill-o {
       padding: 5px;
       background: $primary;
-      font-size: 12px;
+      font-size: 14px;
       color: rgb(255, 255, 255);
     }
   }

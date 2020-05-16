@@ -22,14 +22,16 @@ skype: developerbhuwan
 github: https://github.com/BhuwanUpadhyay
 phone: +977-9848490976
 skills:
-  - title: Programming Languages
-    cssClass: programming-languages
+  - title: Java
+    cssClass: java
     categories:
-      - name: Java 8
-      - name: Java 11
-      - name: Java 14
-      - name: Typescript
-      - name: Kotlin
+      - name: Core
+      - name: Multi-Threading
+      - name: Lambda
+      - name: Concurrency
+      - name: Modules
+      - name: Record
+      - name: Best Practices
   - title: Spring Frameworks
     cssClass: spring-frameworks
     categories:
@@ -38,91 +40,132 @@ skills:
       - name: Spring Web
       - name: Spring Webflux
       - name: Spring Cloud
-  - title: Databases
+      - name: Spring Security
+  - title: Data Exchange Technologies
+    cssClass: data-exhange-technologies
+    categories:
+      - name: RESTful
+      - name: Hateoas
+      - name: Pub/Sub
+      - name: Message Based
+      - name: JAX-WS
+      - name: SOAP
+      - name: JAX-RS
+      - name: JMS
+  - title: Databases (SQL/NoSQL)
     cssClass: databases
     categories:
       - name: PostgreSQL
       - name: MySQL
       - name: MongoDB
       - name: Cassandra
-  - title: Testing
-    cssClass: testing
+  - title: Data Access Frameworks
+    cssClass: data-access-frameworks
+    categories:
+      - name: JDBC
+      - name: Hibernate/JPA
+      - name: jooQ
+      - name: MyBitas
+      - name: JdbcTemplate
+      - name: GraphQL
+  - title: Security
+    cssClass: security
+    categories:
+      - name: Spring Security
+      - name: OAuth2
+      - name: CAS
+      - name: JAAS
+      - name: JWT
+      - name: Encryption and Decryption
+  - title: Testing Frameworks
+    cssClass: testing-frameworks
     categories:
       - name: JUnit
-      - name: JUnit5
+      - name: Jupiter
       - name: AssertJ
       - name: Mockito
-
+      - name: Cucumber
+      - name: Karate
+      - name: CDC Testing
       - name: Wiremock
       - name: Test Containers
-  - title: Cloud-Native and Microservices
-    cssClass: cloud-native-and-microservices
+  - title: Development Practices
+    cssClass: development-practices
     categories:
-      - name: API First Design
-      - name: 12 Factor App
-      - name: Docker
-      - name: Kubernetes
-      - name: Ploygot
-      - name: Hexagonal
-      - name: Onion
-      - name: Microservices Testing
-      - name: CDC Testing
-  - title: Software Design
-    cssClass: software-design
-    categories:
+      - name: Microservices
       - name: Domain-Driven Design
-      - name: Eventstorming
       - name: CQRS
+      - name: API First Design
       - name: Eventsourcing
-      - name: TDD
-      - name: BDD
       - name: Clean Code
       - name: Code Review
+      - name: Business Process Modeling (BPMN)
+      - name: 12 Factor App
+      - name: Ploygot Persistance
+      - name: Hexagonal Architecture
+      - name: Onion Architecture
+      - name: Eventstorming
+      - name: TDD
+      - name: BDD
       - name: Refactoring
       - name: Design Patterns
-      - name: Business Process Modeling (BPMN)
-
-#
-#  - Java
-#  - Spring Boot
-#  - Spring Cloud
-#  - Spring Data
-#  - Hiberante/JPA
-#  - TDD
-#  - API First Design
-#  - CQRS
-#  - BDD
-#  - Domain-Driven Design
-#  - CI/CD
-#  - Code Review
-#  - Clean Code
-#  - Docker
-#  - Kubernetes
-#  - Cloud-Native
-#  - BPMN
-#  - Microservices
-#  - OpenAPI
-#  - GIT
-#  - AWSLambda
-#  - AWSCognito
-#  - AWS EC2
-#  - DynamoDB
-#  - Agile
-#  - XP Rules
-#  - CDC Testing
-#  - Eventstorming
-#  - jOOQ
-#  - Kotlin
-#  - JAX-RS
-#  - RESTful Services
-#  - JDBC
-#  - JMH
-#  - JUNIT
-#  - Mockito
-#  - OAuth2
-#  - Angular
-#  - Typescript
-#  - NodeJs
-#  - PostgreSQL
-#  - MySQL
-#  - Cassandra
+      - name: XP
+      - name: Agile
+      - name: Serverless
+  - title: Cloud Technologies
+    cssClass: cloud-technologies
+    categories:
+      - name: Kubernetes
+      - name: Docker
+      - name: Helm
+      - name: Docker Compose
+      - name: Terraform
+  - title: Amazon Web Services
+    cssClass: amazon-web-services
+    categories:
+      - name: AWS Lambda
+      - name: DynamoDB
+      - name: AWS Cognito
+      - name: Cloudformation
+      - name: EC2
+      - name: S3
+  - title: Frontend Technologies
+    cssClass: frontend-technologies
+    categories:
+      - name: Angular
+      - name: Typescript
+      - name: Bootstrap
+      - name: Material Design
+  - title: Others
+    cssClass: others
+    categories:
+      - name: NodeJs
+      - name: Kotlin
+      - name: Java EE
+      - name: JMH
+experiences:
+  - title: Technical Team Lead
+    cssClass: clusus technical-team-lead
+    company: Clusus Information Solutions
+    location: Dubai, United Arab Emirates
+    years: April 2020 - Present
+    responsibilities:
+      - 🌠 Building microservices for the delivery of software products across the enterprise.
+      - 🌠 Working with domain-driven design, cloud-native patterns, best practices.
+      - 🌠 Working with angular to build front end applications.
+      - 🌠 Develop architecture design for the product.
+      - 🌠 Involving in code review, ensure code quality and completion of a milestone in time.
+      - 🌠 Mentoring other members to help them to build high-quality software products.
+  - title: Java Developer
+    cssClass: clusus java-developer
+    company: Clusus Information Solutions
+    location: Dubai, United Arab Emirates
+    years: October 2016 - March, 2020
+    responsibilities:
+      - 🌠 Developed Spring Boot microservices for the delivery of software products across the enterprise.
+      - 🌠 Decomposed existing monolithic codebase into Spring Boot microservices.
+      - 🌠 Involved in all phases (Design, Development, Code Review, Testing, Deployment) of software development.
+      - 🌠 Implemented Kubernetes with helm deployment strategies for microservice deployment.
+      - 🌠 Benchmarked the system to identify bottlenecks of the application and gives feedback according to that.
+      - 🌠 Developed a highly customized Spring Boot microservice by applying DDD, TDD, and XP methodologies.
+      - 🌠 Developed Serverless Application with AWS Lambda, DynamoDB, Kinesis, Cognito, AWS API Gateway.
