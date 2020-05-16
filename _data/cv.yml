@@ -8,7 +8,7 @@ summary: >-
   AWSLambda, DynamoDB, Kubernetes, Angular, Typescript, SQL, NoSQL, Docker.
   In previous roles, migrated monolithic application into microservices,
   developed greenfield products using cloud-native and microservice architecture,
-  refactored codebase to increase readability and resolved a performance bottleneck that increased application performance.
+  refactored codebase to increase maintainability and resolved a performance bottleneck that increased application performance.
 image: assets/images/2.png
 email: bhuwan.upadhyay49@gmail.com
 location: Kathmandu, Nepal
