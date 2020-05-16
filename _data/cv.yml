@@ -193,3 +193,13 @@ achievements:
 #    description: Pokhara University third topper in computer engineering faculty (Batch 2010 – 2014).
 #  - title: Faculty Topper
 #    description: Dhangadhi Engineering College Computer Engineering Faculty Topper (Batch 2010 – 2014).
+languages:
+  - name: English
+    level: Professional Working Proficiency
+  - name: Nepali
+    level: Native or Bilingual Proficiency
+interests:
+  - Coding
+  - Reading
+  - Swimming
+  - Travelling
