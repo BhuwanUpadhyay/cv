@@ -150,22 +150,22 @@ experiences:
     location: Dubai, United Arab Emirates
     years: April 2020 - Present
     responsibilities:
-      - 🌠 Building microservices for the delivery of software products across the enterprise.
-      - 🌠 Working with domain-driven design, cloud-native patterns, best practices.
-      - 🌠 Working with angular to build front end applications.
-      - 🌠 Develop architecture design for the product.
-      - 🌠 Involving in code review, ensure code quality and completion of a milestone in time.
-      - 🌠 Mentoring other members to help them to build high-quality software products.
+      - Building microservices for the delivery of software products across the enterprise.
+      - Working with domain-driven design, cloud-native patterns, best practices.
+      - Working with angular to build front end applications.
+      - Develop architecture design for the product.
+      - Involving in code review, ensure code quality and completion of a milestone in time.
+      - Mentoring other members to help them to build high-quality software products.
   - title: Java Developer
     cssClass: clusus java-developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
     years: October 2016 - March, 2020
     responsibilities:
-      - 🌠 Developed Spring Boot microservices for the delivery of software products across the enterprise.
-      - 🌠 Decomposed existing monolithic codebase into Spring Boot microservices.
-      - 🌠 Involved in all phases (Design, Development, Code Review, Testing, Deployment) of software development.
-      - 🌠 Implemented Kubernetes with helm deployment strategies for microservice deployment.
-      - 🌠 Benchmarked the system to identify bottlenecks of the application and gives feedback according to that.
-      - 🌠 Developed a highly customized Spring Boot microservice by applying DDD, TDD, and XP methodologies.
-      - 🌠 Developed Serverless Application with AWS Lambda, DynamoDB, Kinesis, Cognito, AWS API Gateway.
+      - Developed Spring Boot microservices for the delivery of software products across the enterprise.
+      - Decomposed existing monolithic codebase into Spring Boot microservices.
+      - Involved in all phases (Design, Development, Code Review, Testing, Deployment) of software development.
+      - Implemented Kubernetes with helm deployment strategies for microservice deployment.
+      - Benchmarked the system to identify bottlenecks of the application and gives feedback according to that.
+      - Developed a highly customized Spring Boot microservice by applying DDD, TDD, and XP methodologies.
+      - Developed Serverless Application with AWS Lambda, Dynamo DB, AWS Kinesis, AWS Cognito, AWS API Gateway.

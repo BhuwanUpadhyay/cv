@@ -15,11 +15,15 @@
                 </div>
             </div>
             <h6 class="mt-2">Responsibilities</h6>
-            {% for responsibility in experience.responsibilities %}
-            <span class="cv-experience">
+            <ul>
+                {% for responsibility in experience.responsibilities %}
+                <li>
+                    <span class="cv-experience">
                 <span class="cv-experience-o">{{ responsibility }}</span>
-            </span>
-            {% endfor %}
+                </span>
+                </li>
+                {% endfor %}
+            </ul>
         </div>
         {% endfor %}
     </div>
