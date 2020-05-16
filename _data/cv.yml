@@ -49,7 +49,7 @@ skills:
       - name: SOAP
       - name: JAX-RS
       - name: JMS
-  - title: Databases (SQL/NoSQL)
+  - title: Databases
     categories:
       - name: PostgreSQL
       - name: MySQL
@@ -179,4 +179,17 @@ educations:
   - title: Bachelor of Computer Engineering
     school: Pokhara University, Nepal
     years: 2010 - 2014
-    grade: 3.85 out of 4
+    grade: 3.85 out of 4 (University Third Topper)
+achievements:
+  - title: Dean List's Award by Pokhara University
+    description: In Recognition of an Outstanding Meritorious Achievement
+  - title: The Verisk Way to Go
+    description: For Serve, Add Value, Innovate
+  - title: Computer Engineering Scholarship
+    description: Dhangadhi Engineering College provided full scholarship to study 4 years Computer Engineering course.
+  - title: HSEB Scholarship
+    description: Higher Secondary Education Board (HSEB) provides the scholarship for excellent students of community schools to study grade 11 and grade 12 under Student Scholarships Bank Program.
+#  - title: University Third Topper
+#    description: Pokhara University third topper in computer engineering faculty (Batch 2010 – 2014).
+#  - title: Faculty Topper
+#    description: Dhangadhi Engineering College Computer Engineering Faculty Topper (Batch 2010 – 2014).
