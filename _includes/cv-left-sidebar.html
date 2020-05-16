@@ -25,4 +25,22 @@
         </div>
         {% endfor %}
     </div>
+    <div class="cv-experiences d-flex flex-column">
+        <h5>Educations</h5>
+        {% for education in cv.educations %}
+        <div>
+            <div class="d-flex justify-content-between pt-2">
+                <div>
+                    <h6>{{ education.title }}</h6>
+                    <span>{{ education.years }}</span>
+                </div>
+                <div>
+                    <h6>{{ education.school }}</h6>
+                    <span>{{ education.grade }}</span>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
 </div>
