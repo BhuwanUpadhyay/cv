@@ -97,6 +97,7 @@ body, input, button, select, optgroup, textarea {
 .cv-horizontal-line {
   height: 2px;
   background: $primary;
+  -webkit-print-color-adjust: exact;
 }
 
 .cv-left-sidebar {
