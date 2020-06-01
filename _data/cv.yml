@@ -225,7 +225,7 @@ projects:
   - title: Practical Microservice Architecture Reference, Guide and Tutorial (May 2020 - Present)
     links:
       - title: Retail Management System
-        href: https://github.com/microservice-architecutre/rtms-specifications/
+        href: https://microservice-architecture.github.io/rtms/
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
