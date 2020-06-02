@@ -36,12 +36,13 @@ skills:
     categories:
       - name: RESTful
       - name: Hateoas
-      - name: Pub/Sub (Kafka/RabbitMq)
-      - name: Message Based
       - name: JAX-WS
       - name: SOAP
       - name: JAX-RS
       - name: JMS
+      - name: Kafka
+      - name: RabbitMq
+      - name: Apache Camel
   - title: Databases
     categories:
       - name: PostgreSQL
@@ -79,6 +80,7 @@ skills:
   - title: Development Practices
     categories:
       - name: Microservices
+      - name: Event-based Architecture
       - name: Domain-Driven Design
       - name: CQRS
       - name: API First Design
