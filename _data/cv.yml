@@ -1,7 +1,7 @@
 name: Bhuwan Prasad Upadhyay
 title: Team Player | Java Developer | Cloud Native and DDD Practitioner | Angular Developer
 summary: >-
-  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Microservices, Cloud Native Application, Even-based Architecture, Domain-Driven Design primarily with Java, Kotlin, SpringBoot, SpringCloud, Hibernate, AWSLambda, DynamoDB, Kubernetes, Angular, Typescript, SQL, NoSQL, Docker. In previous roles, migrated monolithic application into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance.
+  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Microservices, Cloud Native Application, Even-based Architecture, Domain-Driven Design primarily with Java, SpringBoot, SpringCloud, Hibernate, AWSLambda, DynamoDB, Kubernetes, Angular, Typescript, SQL, NoSQL, Docker. In previous roles, migrated monolithic application into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance.
 image: assets/images/2.png
 email: bhuwan.upadhyay49@gmail.com
 location: Kathmandu, Nepal
@@ -224,10 +224,10 @@ projects:
         href: https://bhuwanupadhyay.gitbook.io/think-ddd/
       - title: Spring Boot 2.0 (A book for deep-dive with Spring Boot 2.0)
         href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
-  - title: Practical Microservice Architecture Reference, Guide and Tutorial (May 2020 - Present)
+  - title: Practical Microservice Architecture Practices (May 2020 - Present)
     links:
       - title: Retail Management System
-        href: https://microservice-architecture.github.io/rtms/
+        href: https://cloud-rtms.github.io/
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
