@@ -36,10 +36,8 @@ skills:
     categories:
       - name: RESTful
       - name: Hateoas
-      - name: JAX-WS
       - name: SOAP
       - name: JAX-RS
-      - name: JMS
       - name: Kafka
       - name: RabbitMq
       - name: Apache Camel
