@@ -90,14 +90,14 @@ skills:
       - name: XP
       - name: Agile
       - name: Serverless
-      - name: Business Process Modeling (BPMN)
+      - name: Design Patterns
+      - name: Eventstorming
+      - name: Refactoring
       - name: 12 Factor App
+      - name: BPM
       - name: Ploygot Persistance
       - name: Hexagonal Architecture
       - name: Onion Architecture
-      - name: Eventstorming
-      - name: Refactoring
-      - name: Design Patterns
   - title: Cloud Technologies
     categories:
       - name: Kubernetes
@@ -110,7 +110,6 @@ skills:
       - name: AWS Lambda
       - name: DynamoDB
       - name: AWS Cognito
-      - name: Cloudformation
       - name: EC2
       - name: S3
   - title: Frontend Technologies
