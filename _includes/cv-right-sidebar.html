@@ -23,18 +23,6 @@
             {% endfor %}
         </ul>
     </div>
-    <div class="cv-languages mt-2">
-        <h5>Languages</h5>
-        <ul>
-            {% for language in cv.languages %}
-            <li>
-                <span class="cv-language-name"> {{ language.name }}</span>
-                <br>
-                <span class="cv-language-level">{{ language.level }}</span>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
     <div class="cv-interests mt-2">
         <h5>Interests</h5>
         {% for interest in cv.interests %}

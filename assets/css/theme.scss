@@ -100,51 +100,34 @@ body, input, button, select, optgroup, textarea {
   -webkit-print-color-adjust: exact;
 }
 
-.cv-left-sidebar {
-  .cv-experiences {
+.cv-skills {
 
+  .cv-skill {
+    @include cv-rectangle-wrapper
   }
 
-  .cv-projects {
-
+  .cv-skill-o {
+    @include cv-rectangle
   }
 }
 
-.cv-right-sidebar {
+.cv-languages {
 
-  .cv-skills {
-
-    .cv-skill {
-      @include cv-rectangle-wrapper
-    }
-
-    .cv-skill-o {
-      @include cv-rectangle
-    }
+  .cv-language-name {
+    font-weight: bold;
   }
 
+  .cv-language-level {
+    font-style: italic;
+  }
+}
 
-  .cv-achievements {
+.cv-interests {
+  .cv-interest {
+    @include cv-rectangle-wrapper
   }
 
-  .cv-languages {
-
-    .cv-language-name {
-      font-weight: bold;
-    }
-
-    .cv-language-level {
-      font-style: italic;
-    }
-  }
-
-  .cv-interests {
-    .cv-interest {
-      @include cv-rectangle-wrapper
-    }
-
-    .cv-interest-o {
-      @include cv-rectangle
-    }
+  .cv-interest-o {
+    @include cv-rectangle
   }
 }

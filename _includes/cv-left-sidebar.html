@@ -42,6 +42,18 @@
         </div>
         {% endfor %}
     </div>
+    <div class="cv-languages mt-2">
+        <h5>Languages</h5>
+        <ul>
+            {% for language in cv.languages %}
+            <li>
+                <span class="cv-language-name"> {{ language.name }}</span>
+                <br>
+                <span class="cv-language-level">{{ language.level }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
     <div class="cv-projects d-flex flex-column mt-2">
         <h5>Personal Projects</h5>
         {% for project in cv.projects %}
