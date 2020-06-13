@@ -142,23 +142,22 @@ skills:
       - name: Grafana
       - name: JProfiler
 experiences:
-  # - title: Technical Team Lead
-  #   company: Clusus Information Solutions
-  #   location: Dubai, United Arab Emirates
-  #   years: April 2020 - Present
-  #   responsibilities:
-  #     - Technically lead product development using microservices.
-  #     - Applied development practices - clean code, TDD, domain-driven design, and best practices.
-  #     - Managed a team of 4 software engineers in the technical domain.
-  #     - Standardized tools/models for Code Review, Code Quality, and Code Conventions.
-  #     - Developed backend and frontend application using XP Principles.
-  #     - Handled responsibilities from development to deployment.
-  #     - Helped other members to build high-quality software products.
+  - title: Technical Team Lead
+    company: Clusus Information Solutions
+    location: Dubai, United Arab Emirates
+    years: April 2020 - Present
+    responsibilities:
+      - Technically lead product development using microservices.
+      - Applied development practices - clean code, TDD, domain-driven design, and best practices.
+      - Managed a team of 4 software engineers in the technical domain.
+      - Standardized tools/models for Code Review, Code Quality, and Code Conventions.
+      - Developed backend and frontend application using XP Principles.
+      - Handled responsibilities from development to deployment.
+      - Helped other members to build high-quality software products.
   - title: Java Developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
-    # years: October 2016 - March 2020
-    years: October 2016 - Present
+    years: October 2016 - March 2020
     responsibilities:
       - Developed Spring Boot microservices for the delivery of software products across the enterprise.
       - Decomposed existing monolithic codebase into Spring Boot microservices.
