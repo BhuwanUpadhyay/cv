@@ -154,7 +154,7 @@ experiences:
     years: October 2016 - March 2020
     responsibilities:
       - Contributed to designing, developing, and testing over 200 restful APIs.
-      - Design and developed microservice with API First Design, TDD, Clean Code, and Domain-Driven Design. The outcome is APIs are consistent, documented and business models easy to change according to customer new requirements.
+      - Design and developed microservice with API First Design, TDD, Clean Code, and Domain-Driven Design. The outcome is APIs are consistent, documented and business models are easy to change according to customer new requirements.
       - Designed and developed API Exception Handling Framework to handle exceptions across the whole platform. The outcome is a clean way based on the separation of concerns concept (AOP) between the APIs and the exceptions responses.
       - Containerized the whole development environment and run in Kubernetes with a helm that allows one-click setup for all the development environment components and an easy way to test/handle partial failures. The outcome is a more productive development environment that allows engineers to focus on their current task and not to worry about other components of the platform.
       - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
