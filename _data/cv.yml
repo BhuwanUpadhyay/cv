@@ -167,7 +167,7 @@ experiences:
     years: March 2015 - September 2016
     responsibilities:
       - Design and developed a backup system both backend and frontend using MVC architecture. The outcome is a one-click setup to perform database backup across the production environment.
-      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application greatly increased by 8%.
+      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application increased by 8%.
       - Developed rich technical documents in JIRA, which ultimately helped the customer to use an application.
   - title: Java Developer
     company: GITSS Nepal
