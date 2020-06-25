@@ -158,7 +158,7 @@ experiences:
       - Designed and developed API Exception Handling Framework to handle exceptions across the whole platform. The outcome is a clean way based on the separation of concerns concept (AOP) between the APIs and the exceptions responses.
       - Containerized the whole development environment and run in Kubernetes with a helm that allows one-click setup for all the development environment components and an easy way to test/handle partial failures. The outcome is a more productive development environment that allows engineers to focus on their current task and not to worry about other components of the platform.
       - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
-      - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 16%.
+      - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.
       - Developed a very rich report generation library. The outcome is many systems are using it to generate a report with minimal effort.
       - Researched on micro-service development practices, which ultimately helped to develop our first micro-service architecture based corporate payment system.
   - title: Software Engineer
@@ -167,7 +167,7 @@ experiences:
     years: March 2015 - September 2016
     responsibilities:
       - Design and developed a backup system both backend and frontend using MVC architecture. The outcome is a one-click setup to perform database backup across the production environment.
-      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application greatly increased by 25%.
+      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application greatly increased by 8%.
       - Developed rich technical documents in JIRA, which ultimately helped the customer to use an application.
   - title: Java Developer
     company: GITSS Nepal
