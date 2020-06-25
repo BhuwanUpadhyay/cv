@@ -14,7 +14,13 @@
                     <span class="font-italic">{{ experience.location }}</span>
                 </div>
             </div>
-            <h6 class="mt-2">Responsibilities</h6>
+            {% if experience.description %}
+            <div class="p-1">
+                <p>{{ experience.description }}</p>
+            </div>
+            {% endif %}
+            {% if experience.responsibilities %}
+            <h6 class="mt-2">Achievements</h6>
             <ul>
                 {% for responsibility in experience.responsibilities %}
                 <li>
@@ -22,6 +28,7 @@
                 </li>
                 {% endfor %}
             </ul>
+            {% endif %}
         </div>
         {% endfor %}
     </div>

@@ -146,46 +146,36 @@ experiences:
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
     years: April 2020 - Present
-    responsibilities:
-      - Technically lead product development using microservices.
-      - Applied development practices - clean code, TDD, domain-driven design, and best practices.
-      - Managed a team of 4 software engineers in the technical domain.
-      - Standardized tools/models for Code Review, Code Quality, and Code Conventions.
-      - Developed backend and frontend application using XP Principles.
-      - Handled responsibilities from development to deployment.
-      - Helped other members to build high-quality software products.
+    description: >
+      I dedicate this title to my previous achievements that I earn during the previous role. Always, I see myself as a Team Player with innovating ideas and helping others as they need, review their code, and give constructive feedback for improvement. My primary goal to standardize tools/models, design, and develop good pieces of software by involving myself in the complete product development life cycle i.e. from development to deployment.
   - title: Java Developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
     years: October 2016 - March 2020
     responsibilities:
-      - Developed Spring Boot microservices for the delivery of software products across the enterprise.
-      - Decomposed existing monolithic codebase into Spring Boot microservices.
-      - Involved in all phases (Design, Development, Code Review, Testing, Deployment) of software development.
-      - Implemented Kubernetes with helm deployment strategies for microservice deployment.
-      - Benchmarked the system to identify bottlenecks of the application and gives feedback according to that.
-      - Developed a highly customized Spring Boot microservice by applying DDD, TDD, and XP methodologies.
-      - Developed Serverless Application with AWS Lambda, Dynamo DB, AWS Kinesis, AWS Cognito, AWS API Gateway.
+      - Contributed to designing, developing, and testing over 200 restful APIs.
+      - Design and developed microservice with API First Design, TDD, Clean Code, and Domain-Driven Design. The outcome is APIs are consistent, documented and business models easy to change according to customer new requirements.
+      - Designed and developed API Exception Handling Framework to handle exceptions across the whole platform. The outcome is a clean way based on the separation of concerns concept (AOP) between the APIs and the exceptions responses.
+      - Containerized the whole development environment and run in Kubernetes with a helm that allows one-click setup for all the development environment components and an easy way to test/handle partial failures. The outcome is a more productive development environment that allows engineers to focus on their current task and not to worry about other components of the platform.
+      - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
+      - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 16%.
+      - Developed a very rich report generation library. The outcome is many systems are using it to generate a report with minimal effort.
+      - Researched on micro-service development practices, which ultimately helped to develop our first micro-service architecture based corporate payment system.
   - title: Software Engineer
     company: Versik Information Technologies
     location: Kathmandu, Nepal
     years: March 2015 - September 2016
     responsibilities:
-      - Developed Enterprise applications using MVC architecture and the TDD approach.
-      - Implemented Design Patterns like Singleton design pattern for creating JDBC connection pool, Factory design Pattern – for calling DAO from Service, Proxy Design Pattern – for creating proxy objects, etc
-      - Applied the principle of Object-Oriented Programming. Polymorphism, Inheritance, Abstraction, Encapsulation, Inversion of Control (Dependency Injection), Open Closed Principle, etc. to achieve reusable, maintainable code.
-      - Developed complex SQL queries to retrieve, delete, update, and persist data.
-      - Involved in writing unit test plans and developing test cases using JUnit.
-      - Designed and Developed different technical documents.
+      - Design and developed a backup system both backend and frontend using MVC architecture. The outcome is a one-click setup to perform database backup across the production environment.
+      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application greatly increased by 25%.
+      - Developed rich technical documents in JIRA, which ultimately helped the customer to use an application.
   - title: Java Developer
     company: GITSS Nepal
     location: Dhangadhi, Nepal
     years: January 2014 - February 2015
     responsibilities:
-      - Developed Service Layer for Android applications using SOA.
+      - Developed Restful APIs for FM Radio mobile application.
       - Applied the principle of Object-Oriented Programming, Polymorphism, Inheritance, etc. to achieve reusable, maintainable code.
-      - Involved in writing unit test plans and developing test cases using JUnit.
-      - Involved in SDLC phases.
 educations:
   - title: Bachelor of Computer Engineering
     school: Pokhara University, Nepal
