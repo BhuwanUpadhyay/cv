@@ -26,6 +26,7 @@ jobs:
         run: 'gem update bundler --no-document'
       - name: 'Set up bundle'
         run: |
+          bundle update
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
       - name: 'Build site'
