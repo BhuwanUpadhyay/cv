@@ -142,16 +142,17 @@ skills:
       - name: Grafana
       - name: JProfiler
 experiences:
-  - title: Technical Team Lead
-    company: Clusus Information Solutions
-    location: Dubai, United Arab Emirates
-    years: April 2020 - Present
-    description: >
-      I dedicate this title to my previous achievements that I earned during the previous role. Always, I see myself as a Team Player with innovating ideas and helping others as they need, review their code, and give constructive feedback for improvement. My primary role to standardize tools/models, design, and develop good pieces of software by involving myself in the complete product development life cycle i.e. from development to deployment.
+  # - title: Technical Team Lead
+  #   company: Clusus Information Solutions
+  #   location: Dubai, United Arab Emirates
+  #   years: April 2020 - Present
   - title: Java Developer
     company: Clusus Information Solutions
     location: Dubai, United Arab Emirates
-    years: October 2016 - March 2020
+    years: October 2016 - Present
+    description: |
+      Clusus is a leading provider of banking and payment solutions and sister compnay of Progressoft which serve 370 banks and central banks in 24 countries across the globe.
+      I work with a diverse team to build and maintain payments, checks, trade finance, and others financial software system. My major achievements:
     responsibilities:
       - Contributed to designing, developing, and testing over 200 restful APIs.
       - Design and developed microservice with API First Design, TDD, Clean Code, and Domain-Driven Design. The outcome is APIs are consistent, documented and business models are easy to change according to customer new requirements.
@@ -161,6 +162,7 @@ experiences:
       - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.
       - Developed a very rich report generation library. The outcome is many systems are using it to generate a report with minimal effort.
       - Researched on micro-service development practices, which ultimately helped to develop our first micro-service architecture based corporate payment system.
+      - Initiated frontend project using Angular for corporate payment system, and developed layouts, themes shared library. The outcome is all other ui components are based on these resuable components.      
   - title: Software Engineer
     company: Versik Information Technologies
     location: Kathmandu, Nepal
