@@ -161,7 +161,7 @@ experiences:
       - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.
       - Developed a very rich report generation library. The outcome is many systems are using it to generate a report with minimal effort.
       - Researched on micro-service development practices, which ultimately helped to develop our first micro-service architecture based corporate payment system.
-      - Initiated frontend project using Angular for the corporate payment system, and developed layouts, themes shared library. The outcome is all other ui components are based on these resuable components.
+      - Initiated frontend project using Angular for the corporate payment system, and developed layouts, themes shared library. The outcome is all other UI components are based on these reusable components.
   - title: Software Engineer
     company: Versik Information Technologies
     location: Kathmandu, Nepal
