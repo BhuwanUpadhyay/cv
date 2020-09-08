@@ -6,6 +6,8 @@
 #
 
 # If you have any plugins, put them here!
+source 'https://rubygems.org'
+
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'jekyll-seo-tag'
 gem 'bootstrap', '~> 4.4.1'
