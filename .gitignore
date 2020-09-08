@@ -4,3 +4,4 @@ _site
 .jekyll-metadat
 .idea
 *.iml
+Gemfile.lock
