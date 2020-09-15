@@ -212,14 +212,14 @@ projects:
   #       href: https://bhuwanupadhyay.gitbook.io/think-ddd/
   #     - title: Spring Boot 2.0 (A book for deep-dive with Spring Boot 2.0)
   #       href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
-  - title: Medium [Blog]
+  - title: Open Source Projects
     links:
-      - title: New site for Lead by Examples
-        href: https://medium.com/lead-by-examples
-  - title: Personal [Blog]
+      - title: Online Shop (in Microservice Architecture)
+        href: https://github.com/BhuwanUpadhyay/online-shop
+  - title: Blog|Articles
     links:
-      - title: Old site for Lead by Examples
-        href: https://bhuwanupadhyay.github.io/blog/
+      - title: Lead by Examples
+        href: https://bhuwanupadhyay.github.io/
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
