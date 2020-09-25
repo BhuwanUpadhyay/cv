@@ -212,10 +212,12 @@ projects:
   #       href: https://bhuwanupadhyay.gitbook.io/think-ddd/
   #     - title: Spring Boot 2.0 (A book for deep-dive with Spring Boot 2.0)
   #       href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
-  - title: Open Source Projects
+  - title: Projects
     links:
-      - title: Online Shop (in Microservice Architecture)
+      - title: Online Shop
         href: https://github.com/BhuwanUpadhyay/online-shop
+      - title: Examples
+        href: https://github.com/BhuwanUpadhyay/examples
   - title: Blog|Articles
     links:
       - title: Lead by Examples
