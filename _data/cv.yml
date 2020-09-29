@@ -218,8 +218,12 @@ projects:
         href: https://bhuwanupadhyay.github.io/
   - title: Github Projects
     links:
-      - title: Software Architecture - Case Studies
+      - title: Microservice Architecture - Case Study
         href: https://github.com/BhuwanUpadhyay/case-study
+#      - title: Handbook - Clean Code (Upcomming)
+#        href: https://github.com/BhuwanUpadhyay/clean-code
+#      - title: Handbook - Testing pyramid (Upcomming)
+#        href: https://github.com/BhuwanUpadhyay/testing-pyramid
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
