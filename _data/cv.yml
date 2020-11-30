@@ -211,12 +211,12 @@ interests:
   - Swimming
   - Travelling
 projects:
-  # - title: Upcoming Books (Jaunary 2020 – Present)
-  #   links:
-  #     - title: Think DDD (A book on real world example for domain-driven design)
-  #       href: https://bhuwanupadhyay.gitbook.io/think-ddd/
-  #     - title: Spring Boot 2.0 (A book for deep-dive with Spring Boot 2.0)
-  #       href: https://bhuwanupadhyay.gitbook.io/spring-boot-2-0/
+   - title: zbytes - creativity master
+     links:
+       - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
+         href: https://github.com/zbytes/
+       - title: Medium Blog
+         href: https://medium.com/zbytes
   - title: Blogging
     links:
       - title: Lead by Examples
