@@ -18,7 +18,7 @@ skills:
   - title: Java
     categories:
       - name: Core
-      - name: Multi-Threading
+#      - name: Multi-Threading
       - name: Lambda
       - name: Concurrency
       - name: Modules
@@ -40,7 +40,7 @@ skills:
       - name: JAX-RS
       - name: Kafka
       - name: RabbitMq
-      - name: Apache Camel
+#      - name: Apache Camel
   - title: Databases
     categories:
       - name: PostgreSQL
@@ -54,7 +54,7 @@ skills:
       - name: jooQ
       - name: MyBitas
       - name: JdbcTemplate
-      - name: GraphQL
+#      - name: GraphQL
       - name: ElasticSearch
   - title: Security
     categories:
@@ -63,7 +63,7 @@ skills:
       - name: CAS
       - name: JAAS
       - name: JWT
-      - name: Encryption and Decryption
+#      - name: Encryption and Decryption
   - title: Testing Frameworks
     categories:
       - name: JUnit
@@ -78,25 +78,25 @@ skills:
   - title: Development Practices
     categories:
       - name: Microservices
-      - name: Event-based Architecture
-      - name: Domain-Driven Design
-      - name: CQRS
+#      - name: Event-based Architecture
+      - name: DDD
+#      - name: CQRS
       - name: API First Design
-      - name: Eventsourcing
+#      - name: Eventsourcing
       - name: Clean Code
-      - name: Code Review
+#      - name: Code Review
       - name: TDD
       - name: BDD
-      - name: XP
-      - name: Agile
-      - name: Serverless
-      - name: Design Patterns
-      - name: Eventstorming
-      - name: Refactoring
+#      - name: XP
+#      - name: Agile
+#      - name: Serverless
+#      - name: Design Patterns
+#      - name: Eventstorming
+#      - name: Refactoring
       - name: 12 Factor App
-      - name: BPM
-      - name: Ploygot Persistance
-      - name: Hexagonal Architecture
+#      - name: BPM
+#      - name: Ploygot Persistance
+#      - name: Hexagonal Architecture
       - name: Onion Architecture
   - title: Cloud Technologies
     categories:
@@ -104,7 +104,7 @@ skills:
       - name: Docker
       - name: Helm
       - name: Docker Compose
-      - name: Terraform
+#      - name: Terraform
   - title: Amazon Web Services
     categories:
       - name: AWS Lambda
@@ -142,12 +142,19 @@ skills:
       - name: Grafana
       - name: JProfiler
 experiences:
+#  - title: Founder & Open Source Enthusiast
+#    company: zbytes - creativity master
+#    location: Kathmandu, Nepal
+#    years: November 2020 - Present
+#    responsibilities:
+#      - I created zbytes GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
   - title: Technical Team Lead
     company: Clusus Information Solutions Pvt. Ltd
     location: Kathmandu, Nepal
     years: April 2020 - Present
     responsibilities:
       - Working as a full-time Senior Software Engineer, with additional two other responsibilities; foster new leaders and be the advocate of the team's output.
+      - Leading technically microservices features development, system design, service rollout.
   - title: Java Developer
     company: Clusus Information Solutions DMCC
     location: Dubai, United Arab Emirates
@@ -211,10 +218,10 @@ interests:
   - Swimming
   - Travelling
 projects:
-  - title: zbytes - creativity master
-    links:
-      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry
-        href: https://github.com/zbytes/
+#  - title: zbytes - creativity master
+#    links:
+#      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry
+#        href: https://github.com/zbytes/
   - title: Blogging
     links:
       - title: medium.com/zbytes

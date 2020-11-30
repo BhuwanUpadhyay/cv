@@ -32,4 +32,33 @@
         </div>
         {% endfor %}
     </div>
+    <div class="cv-experiences d-flex flex-column mt-2">
+        <h5>Educations</h5>
+        {% for education in cv.educations %}
+        <div>
+            <div class="d-flex justify-content-between">
+                <div>
+                    <h6>{{ education.title }}</h6>
+                    <span class="font-italic">{{ education.years }}</span>
+                </div>
+                <div>
+                    <h6>{{ education.school }}</h6>
+                    <span class="font-italic">{{ education.grade }}</span>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="cv-languages mt-2">
+        <h5>Languages</h5>
+        <ul>
+            {% for language in cv.languages %}
+            <li>
+                <span class="cv-language-name"> {{ language.name }}</span>
+                <br>
+                <span class="cv-language-level">{{ language.level }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>

@@ -131,3 +131,13 @@ body, input, button, select, optgroup, textarea {
     @include cv-rectangle
   }
 }
+
+.cv-core-skills {
+  .cv-core-skill {
+    @include cv-rectangle-wrapper
+  }
+
+  .cv-core-skill-o {
+    @include cv-rectangle
+  }
+}
