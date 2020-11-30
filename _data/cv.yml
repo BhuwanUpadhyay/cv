@@ -211,12 +211,12 @@ interests:
   - Swimming
   - Travelling
 projects:
-   - title: zbytes - creativity master
-     links:
-       - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
-         href: https://github.com/zbytes/
-       - title: Medium Blog
-         href: https://medium.com/zbytes
+  - title: zbytes - creativity master
+    links:
+      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
+        href: https://github.com/zbytes/
+      - title: Medium Blog
+        href: https://medium.com/zbytes
   - title: Blogging
     links:
       - title: Lead by Examples
@@ -227,8 +227,8 @@ projects:
         href: https://github.com/BhuwanUpadhyay/case-study
       - title: Logstash Logback Spring Boot Starter
         href: https://github.com/BhuwanUpadhyay/logstash-logback-spring-boot-starter
-#      - title: Handbook - Testing pyramid (Upcomming)
-#        href: https://github.com/BhuwanUpadhyay/testing-pyramid
+  #      - title: Handbook - Testing pyramid (Upcomming)
+  #        href: https://github.com/BhuwanUpadhyay/testing-pyramid
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
