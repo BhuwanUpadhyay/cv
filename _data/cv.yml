@@ -213,13 +213,13 @@ interests:
 projects:
   - title: zbytes - creativity master
     links:
-      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
+      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry
         href: https://github.com/zbytes/
-      - title: Medium Blog
-        href: https://medium.com/zbytes
   - title: Blogging
     links:
-      - title: Lead by Examples
+      - title: medium.com/zbytes
+        href: https://medium.com/zbytes
+      - title: bhuwanupadhyay.github.io
         href: https://bhuwanupadhyay.github.io/
   - title: Github Projects
     links:
