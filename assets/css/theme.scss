@@ -132,6 +132,9 @@ body, input, button, select, optgroup, textarea {
   }
 }
 
+.cv-github-status {
+  @include cv-rectangle-wrapper
+}
 .cv-core-skills {
   .cv-core-skill {
     @include cv-rectangle-wrapper

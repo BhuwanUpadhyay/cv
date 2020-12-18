@@ -1,7 +1,7 @@
 name: Bhuwan Prasad Upadhyay
-title: Team Player | Senior Software Engineer
+title: Senior {Java 8+|Spring|AWS|Microservices} Developer
 summary: >-
-  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Microservices, Cloud Native Application, Even-based Architecture, Domain-Driven Design primarily with Java, SpringBoot, SpringCloud, Hibernate, AWSLambda, DynamoDB, Kubernetes, Angular, Typescript, SQL, NoSQL, Docker. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance.
+  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future.
 image: assets/images/2.png
 email: bhuwan.upadhyay49@gmail.com
 location: Kathmandu, Nepal
@@ -14,168 +14,172 @@ twitter: https://twitter.com/IamVuwan
 skype: developerbhuwan
 github: https://github.com/BhuwanUpadhyay
 phone: +977-9848490976
-skills:
-  - title: Java
-    categories:
-      - name: Core
-#      - name: Multi-Threading
-      - name: Lambda
-      - name: Concurrency
-      - name: Modules
-      - name: Record
-      - name: Best Practices
-  - title: Spring Frameworks
-    categories:
-      - name: Spring Boot
-      - name: Spring Data
-      - name: Spring Web
-      - name: Spring Webflux
-      - name: Spring Cloud
-      - name: Spring Actuator
-  - title: Data Exchange Technologies
-    categories:
-      - name: RESTful
-      - name: Hateoas
-      - name: SOAP
-      - name: JAX-RS
-      - name: Kafka
-      - name: RabbitMQ
-#      - name: Apache Camel
-  - title: Databases
-    categories:
-      - name: PostgreSQL
-      - name: MySQL
-      - name: MongoDB
-      - name: Cassandra
-  - title: Data Access Frameworks
-    categories:
-      - name: JDBC
-      - name: Hibernate/JPA
-      - name: jooQ
-      - name: MyBitas
-      - name: JdbcTemplate
-#      - name: GraphQL
-      - name: ElasticSearch
-  - title: Security
-    categories:
-      - name: Spring Security
-      - name: OAuth2
-      - name: CAS
-      - name: JAAS
-      - name: JWT
-#      - name: Encryption and Decryption
-  - title: Testing Frameworks
-    categories:
-      - name: JUnit
-      - name: Jupiter
-      - name: AssertJ
-      - name: Mockito
-      - name: Cucumber
-      - name: Karate
-      - name: CDC Testing
-      - name: Wiremock
-      - name: Test Containers
-  - title: Development Practices
-    categories:
-      - name: Microservices
-#      - name: Event-based Architecture
-      - name: DDD
-#      - name: CQRS
-      - name: API First Design
-#      - name: Eventsourcing
-      - name: Clean Code
-#      - name: Code Review
-      - name: TDD
-      - name: BDD
-#      - name: XP
-#      - name: Agile
-#      - name: Serverless
-#      - name: Design Patterns
-#      - name: Eventstorming
-#      - name: Refactoring
-      - name: 12 Factor App
-#      - name: BPM
-#      - name: Ploygot Persistance
-#      - name: Hexagonal Architecture
-      - name: Onion Architecture
-  - title: Cloud Technologies
-    categories:
-      - name: Kubernetes
-      - name: Docker
-      - name: Helm
-      - name: Docker Compose
-#      - name: Terraform
-  - title: Amazon Web Services
-    categories:
-      - name: AWS Lambda
-      - name: DynamoDB
-      - name: AWS Cognito
-      - name: EC2
-      - name: S3
-  - title: Frontend Technologies
-    categories:
-      - name: Angular
-      - name: Typescript
-      - name: Bootstrap
-      - name: Material Design
-  - title: Others
-    categories:
-      - name: NodeJs
-      - name: Kotlin
-      - name: Java EE
-      - name: Maven
-      - name: Gradle
-      - name: Linux
-      - name: Scala
-      - name: GraalVM
-      - name: IntellijIdea
-      - name: Eclipse
-      - name: NPM
-      - name: Gatling
-      - name: Checker Framework
-      - name: Sonar
-      - name: Checkstyle
-      - name: JMH
-      - name: Elastic APM
-      - name: Kibana
-      - name: Logstash
-      - name: Grafana
-      - name: JProfiler
+#skills:
+#  - title: Java
+#    categories:
+#      - name: Core
+##      - name: Multi-Threading
+#      - name: Lambda
+#      - name: Concurrency
+#      - name: Modules
+#      - name: Record
+#      - name: Best Practices
+#  - title: Spring Frameworks
+#    categories:
+#      - name: Spring Boot
+#      - name: Spring Data
+#      - name: Spring Web
+#      - name: Spring Webflux
+#      - name: Spring Cloud
+#      - name: Spring Actuator
+#  - title: Data Exchange Technologies
+#    categories:
+#      - name: RESTful
+#      - name: Hateoas
+#      - name: SOAP
+#      - name: JAX-RS
+#      - name: Kafka
+#      - name: RabbitMQ
+##      - name: Apache Camel
+#  - title: Databases
+#    categories:
+#      - name: PostgreSQL
+#      - name: MySQL
+#      - name: MongoDB
+#      - name: Cassandra
+#  - title: Data Access Frameworks
+#    categories:
+#      - name: JDBC
+#      - name: Hibernate/JPA
+#      - name: jooQ
+#      - name: MyBitas
+#      - name: JdbcTemplate
+##      - name: GraphQL
+#      - name: ElasticSearch
+#  - title: Security
+#    categories:
+#      - name: Spring Security
+#      - name: OAuth2
+#      - name: CAS
+#      - name: JAAS
+#      - name: JWT
+##      - name: Encryption and Decryption
+#  - title: Testing Frameworks
+#    categories:
+#      - name: JUnit
+#      - name: Jupiter
+#      - name: AssertJ
+#      - name: Mockito
+#      - name: Cucumber
+#      - name: Karate
+#      - name: CDC Testing
+#      - name: Wiremock
+#      - name: Test Containers
+#  - title: Development Practices
+#    categories:
+#      - name: Microservices
+##      - name: Event-based Architecture
+#      - name: DDD
+##      - name: CQRS
+#      - name: API First Design
+##      - name: Eventsourcing
+#      - name: Clean Code
+##      - name: Code Review
+#      - name: TDD
+#      - name: BDD
+##      - name: XP
+##      - name: Agile
+##      - name: Serverless
+##      - name: Design Patterns
+##      - name: Eventstorming
+##      - name: Refactoring
+#      - name: 12 Factor App
+##      - name: BPM
+##      - name: Ploygot Persistance
+##      - name: Hexagonal Architecture
+#      - name: Onion Architecture
+#  - title: Cloud Technologies
+#    categories:
+#      - name: Kubernetes
+#      - name: Docker
+#      - name: Helm
+#      - name: Docker Compose
+##      - name: Terraform
+#  - title: Amazon Web Services
+#    categories:
+#      - name: AWS Lambda
+#      - name: DynamoDB
+#      - name: AWS Cognito
+#      - name: EC2
+#      - name: S3
+#  - title: Frontend Technologies
+#    categories:
+#      - name: Angular
+#      - name: Typescript
+#      - name: Bootstrap
+#      - name: Material Design
+#  - title: Others
+#    categories:
+#      - name: NodeJs
+#      - name: Kotlin
+#      - name: Java EE
+#      - name: Maven
+#      - name: Gradle
+#      - name: Linux
+#      - name: Scala
+#      - name: GraalVM
+#      - name: IntellijIdea
+#      - name: Eclipse
+#      - name: NPM
+#      - name: Gatling
+#      - name: Checker Framework
+#      - name: Sonar
+#      - name: Checkstyle
+#      - name: JMH
+#      - name: Elastic APM
+#      - name: Kibana
+#      - name: Logstash
+#      - name: Grafana
+#      - name: JProfiler
 experiences:
-#  - title: Founder & Open Source Enthusiast
-#    company: zbytes - creativity master
-#    location: Kathmandu, Nepal
-#    years: November 2020 - Present
-#    responsibilities:
-#      - I created zbytes GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry.
+  - title: Founder & Open Source Enthusiast
+    company: zbytes - creativity master
+    location: Kathmandu, Nepal
+    years: November 2020 - Present
+    responsibilities:
+      - Managed a GitHub organization to shares projects, articles, and podcasts on the latest cutting-edge technologies.
+      - Committed to a mission for writing an article weekly and publishing a podcast monthly.
+    primary_topics: Java, Kotlin, Angular, Spring Boot, Spring Cloud, AWS, Microservices, Domain-Driven Design, Cloud-Native, Software Design, Coding Problems.
   - title: Technical Team Lead
     company: Clusus Information Solutions Pvt. Ltd
     location: Kathmandu, Nepal
     years: April 2020 - Present
     responsibilities:
-      - Working as a full-time Senior Software Engineer, with additional two other responsibilities; foster new leaders and be the advocate of the team's output.
-      - Leading technically features development and system design in microservices.
+      - Led a team of developers for system design and features development.
+      - Actively involved in code optimization, code review, mentoring, and coordination.
+      - Built integration layer between business services and core banking system which ultimately helped to exchange messages safely with failure management.
   - title: Java Developer
     company: Clusus Information Solutions DMCC
     location: Dubai, United Arab Emirates
     years: October 2016 - March 2020
     responsibilities:
-      - Contributed to designing, developing, and testing over 200 restful APIs.
-      - Design and developed microservice with API First Design, TDD, Clean Code, and Domain-Driven Design. The outcome is APIs are consistent, documented and business models are easy to change according to customer new requirements.
-      - Designed and developed API Exception Handling Framework to handle exceptions across the whole platform. The outcome is a clean way based on the separation of concerns concept (AOP) between the APIs and the exceptions responses.
-      - Containerized the whole development environment and run in Kubernetes with a helm that allows one-click setup for all the development environment components and an easy way to test/handle partial failures. The outcome is a more productive development environment that allows engineers to focus on their current task and not to worry about other components of the platform.
+      - Contributed to designing, developing, and testing over 200 restful APIs. So, the corporate payment system successfully released for the banks.
+      - Built exception handling framework to handle exceptions across the whole platform which provides a clean way to handle the error responses.
+      - Leveraged automation for Kubernetes deployment with docker and helm. As a result team productivity gone up by 30%.
       - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
       - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.
-      - Developed a very rich report generation library. The outcome is many systems are using it to generate a report with minimal effort.
-      - Researched on micro-service development practices, which ultimately helped to develop our first micro-service architecture based corporate payment system.
-      - Initiated frontend project using Angular for the corporate payment system, and developed layouts, themes shared library. The outcome is all other UI components are based on these reusable components.
+    tech_stacks: >
+      Java 8+, Junit{4|5}, Kotlin, OpenAPI, Spring {Web, AOP, Boot, Data, Cloud, Batch, Security, Actuator}, Hibernate/JPA, PostgreSQL, MongoDB, Hazelcast, Liquibase, Keycloak, AWS, Kafka, Angular, Bootstrap, Prometheus, Grafana, Zipkin, Elasticsearch, K6 Load Testing, Kubernetes, Docker, GIT, Linux.
   - title: Software Engineer
     company: Versik Information Technologies
     location: Kathmandu, Nepal
     years: March 2015 - September 2016
     responsibilities:
       - Design and developed a backup system both backend and frontend using MVC architecture. The outcome is a one-click setup to perform database backup across the production environment.
-      - Refactored data access layer with maintainable and high performing SQL queries. The outcome is the performance of application increased by 8%.
+      - Refactored data access layer with maintainable and high performing SQL queries. As a result the performance of the application greatly increased by 8%.
+      - Developed rich technical documents in JIRA, which ultimately helped the customer to use an application.
+    tech_stacks: >
+      Java, Junit4, Spring Framework, Spring MVC, JdbcTemplate, Spring AOP, Spring Security, Hibernate/JPA, Oracle, Ehcache, Tomcat, jQuery, Bootstrap, Svn, Windows.
   - title: Java Developer
     company: GITSS Nepal
     location: Dhangadhi, Nepal
@@ -183,6 +187,8 @@ experiences:
     responsibilities:
       - Developed Restful APIs for FM Radio mobile application.
       - Applied the principle of Object-Oriented Programming, Polymorphism, Inheritance, etc. to achieve reusable, maintainable code.
+    tech_stacks: >
+      Java, Jdbc, Spring Framework, Spring MVC, Spring Security, Android SDK, Svn, Linux.
 educations:
   - title: Bachelor of Computer Engineering
     school: Pokhara University, Nepal
@@ -209,10 +215,12 @@ languages:
 interests:
   - Microservices
   - Event-driven Design
+  - AWS
   - Domain-driven Design
   - Optimization Problems
   - Machine Learning
   - Artifical Intelligence
+  - Severless
   - Coding
   - Reading
   - Swimming
@@ -230,6 +238,8 @@ projects:
         href: https://bhuwanupadhyay.github.io/
   - title: Github Projects
     links:
+      - title: zbytes open source projects
+        href: https://github.com/zbytes
       - title: Microservice Architecture - Case Study
         href: https://github.com/BhuwanUpadhyay/case-study
       - title: Logstash Logback Spring Boot Starter
