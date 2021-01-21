@@ -213,13 +213,14 @@ languages:
   - name: Nepali
     level: Native or Bilingual Proficiency
 interests:
+  - Machine Learning
+  - Artifical Intelligence
+  - Data Science
   - Microservices
   - Event-driven Design
   - AWS
   - Domain-driven Design
   - Optimization Problems
-  - Machine Learning
-  - Artifical Intelligence
   - Severless
   - Coding
   - Reading
