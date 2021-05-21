@@ -1,9 +1,9 @@
 name: Bhuwan Prasad Upadhyay
-title: "Senior {Java 8+|Spring|AWS|Microservices} Developer"
+title: "Senior {Java 11+|Spring|AWS|Blockchain|Microservices} Developer"
 # title: "{AI|ML} Enthusiast & Senior {Java 8+|Spring|AWS|Microservices} Developer"
 # Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future. Keen to learn more about machine learning and artificial intelligence.
 summary: >-
-  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future.
+  Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, Blockchain, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future. Have basic knowledge on ML and keen to explore in depth.
 image: assets/images/2.png
 email: bhuwan.upadhyay49@gmail.com
 location: Kathmandu, Nepal
@@ -144,6 +144,18 @@ phone: +977-9848490976
 #      - name: Grafana
 #      - name: JProfiler
 experiences:
+
+  - title: Freelance Software Engineer
+    company: Upwork
+    location: California, United States
+    years: December 2020 - Present
+    responsibilities:
+      - Managed production grade blockchain network with multiple organizations, peers and cloud providers (AWS, GCP, AZURE).
+      - Developed blockchain applications with hyperledger fabric technologies.
+      - Developed microservices for client and deployed using kubernetes, helm, and skaffold in AWS EKS.
+    tech_stacks: >
+      Java 11+, Junit5, Go, Terraform, Blockchain, Hyperledger Fabric, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, AWS, AZURE, GCP, Kafka, OpenTelemetry, OpenTracing, Elasticsearch, Caliper, Kubernetes, Docker, Helm, GIT, Linux.
+
   - title: Founder & Open Source Enthusiast
     company: zbytes - creativity master
     location: Kathmandu, Nepal
@@ -151,15 +163,19 @@ experiences:
     responsibilities:
       - Managed a GitHub organization to shares projects, articles, and podcasts on the latest cutting-edge technologies.
       - Committed to a mission for writing useful technical articles and publishing podcasts.
-    primary_topics: Java, Kotlin, Angular, Spring Boot, Spring Cloud, AWS, Microservices, Domain-Driven Design, Cloud-Native, Software Design, Coding Problems.
+    primary_topics: Java, Kotlin, Angular, Spring Boot, Spring Cloud, Blockchain, AWS, Kubernetes, Docker, Microservices, Domain Driven Design, Cloud Native Application, Software Design, Coding Problems.
+
   - title: Technical Team Lead
-    company: Clusus Information Solutions Pvt. Ltd
-    location: Kathmandu, Nepal
+    company: Clusus Information Solutions DMCC
+    location: Dubai, United Arab Emirates
     years: April 2020 - Present
     responsibilities:
       - Led a team of developers for system design and features development.
-      - Actively involved in code optimization, code review, mentoring, and coordination.
-      - Built integration layer between business services and core banking system which ultimately helped to exchange messages safely with failure management.
+      - Actively involved in development, code optimization, code review, mentoring, coordination.
+      - Built integration layer between business services and core banking system.
+    tech_stacks: >
+      Java 11+, Junit5, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, GCP, RabbitMQ, K6, Kubernetes, Docker, Helm, GIT, Linux.
+
   - title: Java Developer
     company: Clusus Information Solutions DMCC
     location: Dubai, United Arab Emirates
@@ -169,9 +185,10 @@ experiences:
       - Built exception handling framework to handle exceptions across the whole platform which provides a clean way to handle the error responses.
       - Leveraged automation for Kubernetes deployment with docker and helm. As a result team productivity gone up by 30%.
       - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
-      - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.
+      - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.      
     tech_stacks: >
-      Java 8+, Junit{4|5}, Kotlin, OpenAPI, Spring {Web, AOP, Boot, Data, Cloud, Batch, Security, Actuator}, Hibernate/JPA, PostgreSQL, MongoDB, Hazelcast, Liquibase, Keycloak, AWS, Kafka, Angular, Bootstrap, Prometheus, Grafana, Zipkin, Elasticsearch, K6 Load Testing, Kubernetes, Docker, GIT, Linux.
+      Java 8+, Junit{4|5}, Kotlin, OpenAPI, Spring {Web, AOP, Boot, Data, Cloud, Batch, Security, Actuator}, Hibernate/JPA, PostgreSQL, MongoDB, Hazelcast, Liquibase, Keycloak, AWSLambda, RabbitMQ, Angular, Prometheus, Grafana, Zipkin, K6 Load Testing, Kubernetes, Docker, Helm, GIT, Linux.
+
   - title: Software Engineer
     company: Versik Information Technologies
     location: Kathmandu, Nepal
@@ -195,7 +212,7 @@ educations:
   - title: Bachelor of Computer Engineering
     school: Pokhara University, Nepal
     years: 2010 - 2014
-    grade: 3.85 out of 4 (University Third Topper)
+    grade: 3.85 out of 4 (3rd highest rank)
 achievements:
   - title: Dean List's Award by Pokhara University
     description: In Recognition of an Outstanding Meritorious Achievement
@@ -205,10 +222,10 @@ achievements:
     description: Dhangadhi Engineering College provided full scholarship to study 4 years Computer Engineering course.
   - title: HSEB Scholarship
     description: Higher Secondary Education Board (HSEB) provides the scholarship for excellent students of community schools to study grade 11 and grade 12 under Student Scholarships Bank Program.
-#  - title: University Third Topper
-#    description: Pokhara University third topper in computer engineering faculty (Batch 2010 – 2014).
-#  - title: Faculty Topper
-#    description: Dhangadhi Engineering College Computer Engineering Faculty Topper (Batch 2010 – 2014).
+  - title: Faculty University Third Topper
+    description: Pokhara University third topper in computer engineering faculty (Batch 2010 – 2014).
+  - title: Faculty College Topper
+    description: Dhangadhi Engineering College Computer Engineering Faculty Topper (Batch 2010 – 2014).
 languages:
   - name: English
     level: Professional Working Proficiency
@@ -219,6 +236,7 @@ interests:
   - Artifical Intelligence
   - Data Science
   - Statistics
+  - Blockchain  
   - Microservices
   - Event-driven Design
   - AWS
@@ -230,11 +248,15 @@ interests:
   - Swimming
   - Travelling
 projects:
-#  - title: zbytes - creativity master
-#    links:
-#      - title: zbytes is a GitHub organization to shares open-source projects, articles, and notes on the latest cutting-edge technologies of the software industry
-#        href: https://github.com/zbytes/
-  - title: Blogging
+  - title: Links
+    links:
+     - title: Upwork Profile
+       href: https://www.upwork.com/freelancers/~0167299bfd0cd20fe4
+     - title: zbytes - creativity master
+       href: https://zbytes.github.io/
+     - title: Online CV
+       href: https://bhuwanupadhyay.github.io/cv/
+  - title: My Blogs
     links:
       - title: medium.com/zbytes
         href: https://medium.com/zbytes
@@ -244,12 +266,12 @@ projects:
     links:
       - title: zbytes open source projects
         href: https://github.com/zbytes
-      - title: Microservice Architecture - Case Study
-        href: https://github.com/BhuwanUpadhyay/case-study
       - title: Logstash Logback Spring Boot Starter
         href: https://github.com/BhuwanUpadhyay/logstash-logback-spring-boot-starter
-  #      - title: Handbook - Testing pyramid (Upcomming)
-  #        href: https://github.com/BhuwanUpadhyay/testing-pyramid
+      - title: Transaction Outbox Pattern
+        href: https://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter
+      - title: Microservice Architecture - Case Study
+        href: https://github.com/BhuwanUpadhyay/case-study
   - title: College Projects (January 2012 – January 2014)
     links:
       - title: 8 Projects (from desktop to web applications)
