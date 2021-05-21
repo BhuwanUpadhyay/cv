@@ -1,6 +1,6 @@
 name: Bhuwan Prasad Upadhyay
 # title: "Senior {Java 11+|Spring|AWS|Blockchain|Microservices} Developer"
-title: "ML Enthusiast & Senior {Java 11+|Spring|AWS|Blockchain|Microservices} Developer"
+title: "Senior {Java 11+|Spring|AWS|Blockchain|Microservices} Developer and ML Enthusiast "
 # Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future. Keen to learn more about machine learning and artificial intelligence.
 summary: >-
   Enthusiastic software engineer with 6+ years of experience participating in the complete product development lifecycle of successfully launched applications. Hands-on professional experience in Java, Kotlin, Spring, Hibernate/JPA, Angular, Blockchain, AWS, Microservices, Kubernetes. In previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. Always determined to make substantial impacts in the future. Have basic knowledge on ML and keen to explore in depth.
@@ -150,11 +150,11 @@ experiences:
     location: California, United States
     years: December 2020 - Present
     responsibilities:
-      - Managed production grade blockchain network with multiple organizations, peers and cloud providers (AWS, GCP, AZURE).
+      - Managed production grade blockchain network with multiple organizations, peers and cloud providers (AWS, GCP, AZURE) using hyperledger fabric.
       - Developed blockchain applications with hyperledger fabric technologies.
-      - Developed microservices for client and deployed using kubernetes, helm, and skaffold in AWS EKS.
+      - Developed number of microservices for clients and deployed in production with kubernetes.
     tech_stacks: >
-      Java 11+, Junit5, Go, Terraform, Blockchain, Hyperledger Fabric, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, AWS, AZURE, GCP, Kafka, OpenTelemetry, OpenTracing, Elasticsearch, Caliper, Kubernetes, Docker, Helm, GIT, Linux.
+      Java 11+, Junit5, Go, Terraform, Blockchain, Hyperledger Fabric, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, AWS, AZURE, GCP, Kafka, OpenTelemetry, OpenTracing, Elasticsearch, Caliper, Kubernetes, Docker, Helm, Skaffold, GIT, Linux.
 
   - title: Founder & Open Source Enthusiast
     company: zbytes - creativity master
