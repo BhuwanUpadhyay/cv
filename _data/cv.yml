@@ -81,22 +81,22 @@ phone: +977-9848490976
 #  - title: Development Practices
 #    categories:
 #      - name: Microservices
-##      - name: Event-based Architecture
+##     - name: Event-based Architecture
 #      - name: DDD
-##      - name: CQRS
+##     - name: CQRS
 #      - name: API First Design
-##      - name: Eventsourcing
+##     - name: Eventsourcing
 #      - name: Clean Code
-##      - name: Code Review
+##     - name: Code Review
 #      - name: TDD
 #      - name: BDD
-##      - name: XP
+##     - name: XP
 ##      - name: Agile
 ##      - name: Serverless
 ##      - name: Design Patterns
 ##      - name: Eventstorming
 ##      - name: Refactoring
-#      - name: 12 Factor App
+#       - name: 12 Factor App
 ##      - name: BPM
 ##      - name: Ploygot Persistance
 ##      - name: Hexagonal Architecture
@@ -107,7 +107,7 @@ phone: +977-9848490976
 #      - name: Docker
 #      - name: Helm
 #      - name: Docker Compose
-##      - name: Terraform
+#      - name: Terraform
 #  - title: Amazon Web Services
 #    categories:
 #      - name: AWS Lambda
