@@ -175,7 +175,7 @@ experiences:
       - Actively involved in development, code optimization, code review, mentoring, coordination.
       - Built integration layer between business services and core banking system.
     tech_stacks: >
-      Java 11+, Junit5, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, GCP, RabbitMQ, K6, Kubernetes, Docker, Helm, GIT, Linux.
+      Java 11+, Junit5, OpenAPI, Spring {Boot|Cloud} Stacks, Hibernate, Liquibase, GCP, Apache Camel, Drools, RabbitMQ, K6, Kubernetes, Docker, Helm, GIT, Linux.
 
   - title: Java Developer
     company: Clusus Information Solutions DMCC
@@ -188,7 +188,7 @@ experiences:
       - Applied ELK to scale log processing and analyze the logs and detect major log events. The outcome is a systematic way to trace application failures.
       - Benchmarked the system to identify bottlenecks of the application and improved the performance of the system by 12%.      
     tech_stacks: >
-      Java 8+, Junit{4|5}, Kotlin, OpenAPI, Spring {Web, AOP, Boot, Data, Cloud, Batch, Security, Actuator}, Hibernate/JPA, PostgreSQL, MongoDB, Hazelcast, Liquibase, Keycloak, AWSLambda, RabbitMQ, Angular, Prometheus, Grafana, Zipkin, K6 Load Testing, Kubernetes, Docker, Helm, GIT, Linux.
+      Java 8+, Junit{4|5}, Kotlin, OpenAPI, Spring {Web, AOP, Boot, Data, Cloud, Batch, Security, Actuator}, Hibernate/JPA, PostgreSQL, MongoDB, Hazelcast, Liquibase, OAuth2, Keycloak, AWSLambda, RabbitMQ, Camunda BPMN, Angular, Prometheus, Grafana, Zipkin, K6 Load Testing, Kubernetes, Docker, Helm, GIT, Linux.
 
   - title: Software Engineer
     company: Versik Information Technologies
